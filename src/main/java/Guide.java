@@ -35,8 +35,7 @@ public class Guide {
      * other constructor is written (this is how all the other problems in this repo work, since a test must
      * create an object before it can run its methods.)
      *
-     * example usage: Guide guideObject1 = new Guide(1);
-     *
+     * 
      * @param id We'll be setting the id of this object to whatever is passed in as a parameter
      *           to the constructor.
      */
