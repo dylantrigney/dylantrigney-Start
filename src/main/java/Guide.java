@@ -52,7 +52,7 @@ public class Guide {
      *  For any method other than constructors, we must define a return type. Just like variables, return
      *  types must have a data type defined. Here this is String, which is a term for text in programming
      *  languages. This method must return something that is a String. If we do not wish for this method to
-     *  return anything, we could set the return type to void.
+     *  return anything, we could set the return type to void
      *
      *  example usage: guideObject1.guideMethod("hello"); returns "Success from guide object 1! it says: hello"
      *
